@@ -1,0 +1,3 @@
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Face Detection.exe.config
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\obj\x86\Debug\Face Detection.exe
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\obj\x86\Debug\Face Detection.pdb

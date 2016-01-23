@@ -1,0 +1,35 @@
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Face Detection.exe
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Face Detection.pdb
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.dll
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.ML.dll
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.UI.dll
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.Util.dll
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\ZedGraph.dll
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.xml
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.ML.xml
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.Util.xml
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\obj\x86\Debug\Face Detection.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\obj\x86\Debug\Face_Detection.Form1.resources
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\obj\x86\Debug\Face_Detection.Properties.Resources.resources
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\obj\x86\Debug\Face Detection.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\obj\x86\Debug\Face Detection.exe
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\obj\x86\Debug\Face Detection.pdb
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.Contrib.dll
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.Cuda.dll
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.Shape.dll
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.Superres.dll
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.Contrib.xml
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.Shape.xml
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.Superres.xml
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\DELL\Desktop\DERSLER\4.sınıf\Bitirme Projesi\emguCV denemeleri\Face Detection\Face Detection\bin\Debug\Face Detection.exe.config
